@@ -1,6 +1,6 @@
 const { createApp } = Vue;
 
-const SERVER_URL = 'https://carlos-poultry-kentucky-critics.trycloudflare.com';
+const SERVER_URL = '###################################';//你依旧可以在历史中找到原先的这个玩意儿但是我只能说依旧没有什么用而且你要用的时候你肯定要把这个玩意儿换成你自己的
 const MODEL_PATH = './mao_pro_zh/mao_pro_zh/runtime/mao_pro.model3.json';
 const LOCAL_SERVER_PORT = 3000;
 const LOCAL_SERVER_URL = `http://localhost:${LOCAL_SERVER_PORT}`;
